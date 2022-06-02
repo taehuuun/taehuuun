@@ -1,7 +1,7 @@
 ### <div align="center">👨‍💻I am a Unity developer, but I want to learn and try many things🚀</div>  
   
 
-- 🌱 I’m currently learning studying algorithms and languages  
+- 🌱 I’m currently learning algorithms and languages  
   
 
 <br/>  
