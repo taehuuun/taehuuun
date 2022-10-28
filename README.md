@@ -7,7 +7,9 @@
 <br/>  
 
 
+
 ## My Skill Set  
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 
@@ -37,10 +39,15 @@
 
 
 
-</td></tr></table>  
+</td></tr></table>
+</div>
 
 <br/>  
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=taehuuun&bg_color=1f1f1f&color=ffffff&line=4c8e9e&point=00ffbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=taehuuun&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 ## Connect with me  
 <div align="center">
@@ -56,8 +63,7 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=taehuuun&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 
 <br/>  
 
