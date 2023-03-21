@@ -46,7 +46,7 @@
 <a href="https://github.com/taehuuun"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=#000000&link=https://www.instagram.com/hye_inisfree/"/></a>
 <a href="https://devvdevv.tistory.com/"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=#000000&link=https://www.instagram.com/hye_inisfree/"/></a>
 <a href="https://www.instagram.com/ll_ix.xv_ll/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
-<a href="lsw46326@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lsw46326@gmail.com"/></a>
+<a href="mailto:lsw46326@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lsw46326@gmail.com"/></a>
 ## Recent Blog Posts
 
 ![Profile Views](https://komarev.com/ghpvc/?username=taehuuun&&style=flat-square)
