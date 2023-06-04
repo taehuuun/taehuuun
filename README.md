@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/C++-033963?style=flat-square&logo=C++&logoColor=#00599C"/></a>&nbsp
 </p>
 
-[![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=taehuuun&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taehuuun&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align = "center">
 
