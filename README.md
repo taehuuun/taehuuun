@@ -29,8 +29,11 @@
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=#A8B9CC"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-033963?style=flat-square&logo=C++&logoColor=#00599C"/></a>&nbsp
 </p>
+<!--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taehuuun&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taehuuun&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 <div align = "center">
 
